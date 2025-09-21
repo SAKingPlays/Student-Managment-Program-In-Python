@@ -152,13 +152,9 @@ def add_student(name, student_id, email, grade, major):
 
 <div align="center">
 
-| Main Dashboard | Student List View | Add Student Form |
-|---------------|------------------|-----------------|
-| ![Dashboard](https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Dashboard) | ![Student List](https://via.placeholder.com/300x200/2196F3/FFFFFF?text=Student+List) | ![Add Form](https://via.placeholder.com/300x200/FF9800/FFFFFF?text=Add+Student) |
 
-| Search Results | Export Options | Settings |
-|---------------|----------------|----------|
-| ![Search](https://via.placeholder.com/300x200/9C27B0/FFFFFF?text=Search) | ![Export](https://via.placeholder.com/300x200/00BCD4/FFFFFF?text=Export) | ![Settings](https://via.placeholder.com/300x200/E91E63/FFFFFF?text=Settings) |
+<img width="1366" height="768" alt="2025-09-21_084306" src="https://github.com/user-attachments/assets/6b2f160d-0098-4927-9dc4-2a9296556a70" />
+
 
 </div>
 
@@ -253,8 +249,6 @@ If you encounter issues or have questions:
 For enterprise licensing or custom development:
 - 📞 Contact: cyberdevpro7@gmail.com
 - 💼 Services: Custom GUI Development, Database Migration, Enterprise Integration
-
-### Stargazers over time
 
 [![Stargazers](https://starchart.cc/yourusername/student-management-gui-python.svg)](https://starchart.cc/yourusername/student-management-gui-python)
 
