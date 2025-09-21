@@ -60,16 +60,7 @@ This project demonstrates how to build a professional-grade desktop application 
 - Python 3.6 or higher
 - Basic understanding of Python (helpful but not required)
 
-## 🔧 Installation
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/student-management-gui-python.git
-cd student-management-gui-python
-```
-
-### Step 2: Run the Application
+### Step 1: Run the Application
 
 No installation required! Just run:
 
@@ -124,38 +115,6 @@ python main.py
 - Export student data to CSV
 - Backup database with one click
 - Print student reports
-
-## 📁 Project Structure
-
-```
-student-management-gui-python/
-│
-├── main.py                 # Main application entry point
-├── database.py            # SQLite database operations
-├── gui.py                 # Tkinter GUI components
-├── models.py              # Student data model
-├── utils.py               # Utility functions
-├── config.py              # Configuration settings
-│
-├── assets/                # Images and icons
-│   ├── logo.png
-│   └── icons/
-│
-├── data/                  # Database and export files
-│   ├── students.db       # SQLite database (auto-created)
-│   └── exports/          # CSV export directory
-│
-├── tests/                 # Unit tests
-│   ├── test_database.py
-│   └── test_gui.py
-│
-├── docs/                  # Documentation
-│   └── README.md         # You're reading it!
-│
-├── requirements.txt       # Dependencies (empty for this project!)
-├── .gitignore
-└── LICENSE
-```
 
 ## 🎨 Features Breakdown
 
