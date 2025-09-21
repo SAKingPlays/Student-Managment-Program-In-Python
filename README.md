@@ -6,6 +6,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Video Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red)](https://www.youtube.com/watch?v=your-video-id)
 
+
+<img width="1280" height="720" alt="Building Student Managment Program In Python" src="https://github.com/user-attachments/assets/df88c89a-2298-4f6c-b257-f7a390cc90e6" />
+
+
 A complete **Student Management System GUI** built with **pure Python** and **Tkinter** - no external frameworks needed! Perfect for beginners learning GUI development and database integration.
 
 <div align="center">
@@ -162,7 +166,7 @@ def add_student(name, student_id, email, grade, major):
 
 Watch the complete tutorial on YouTube:
 
-[![Watch the Tutorial](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+https://youtu.be/J3u3PMY1UrI
 
 **"Build a Complete Student Management System GUI in Python with Tkinter - Beginner Tutorial 2025"**
 
@@ -232,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 CyberDevPro(SAKingPlays)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```
@@ -242,13 +246,12 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 If you encounter issues or have questions:
 
 ### Community Support
-- 💬 [Discord Community](https://discord.gg/your-discord)
-- 🐛 [GitHub Issues](https://github.com/yourusername/student-management-gui-python/issues)
-- 📧 [Email Support](mailto:your.email@example.com)
+- 🐛 [GitHub Issues](https://github.com/SAKingPlays)
+- 📧 [Email Support](cyberdevpro7@gmail.com)
 
 ### Professional Support
 For enterprise licensing or custom development:
-- 📞 Contact: [your.email@example.com]
+- 📞 Contact: cyberdevpro7@gmail.com
 - 💼 Services: Custom GUI Development, Database Migration, Enterprise Integration
 
 ### Stargazers over time
@@ -259,9 +262,9 @@ For enterprise licensing or custom development:
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by CyberDevPro(SAKingPlays)**
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/SAKingPlays">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-gray?logo=github" alt="Follow on GitHub">
 </a>
 <a href="https://www.youtube.com/channel/your-channel">
